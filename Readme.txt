@@ -11,3 +11,4 @@ Run the script http://localhost/covid-tms
 Admin Credential
 Username: admin
 Password: Test@123
+bnm,
